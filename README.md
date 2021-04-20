@@ -33,7 +33,7 @@ The Lego Database Schema <br>
 
 
 <br>
-
+#### Colors dataset
 ```python
 colors = pd.read_csv('datasets/colors.csv')
 display(colors.head())
@@ -50,7 +50,30 @@ display(colors.head())
 <br>
 <p>It would be interesting to explore the distribution of transparent vs. non-transparent colors.</p>
 
-![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/cb275fc26485fd15916e9fca72a56070a1815120/datasets/image.png)
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/cb275fc26485fd15916e9fca72a56070a1815120/datasets/img3.png)
 
+<hr>
+### Sets dataset
+<br>
 
+```python
+sets = pd.read_csv('datasets/sets.csv')
+display(sets.head())
+```
 
+|   | set_num |            name            | year | theme_id | num_parts |
+|:-:|:-------:|:--------------------------:|:----:|:--------:|:---------:|
+| 0 |   00-1  |       Weetabix Castle      | 1970 |    414   |    471    |
+| 1 |  0011-2 |      Town Mini-Figures     | 1978 |    84    |     12    |
+| 2 |  0011-3 | Castle 2 for 1 Bonus Offer | 1987 |    199   |     2     |
+| 3 |  0012-1 |     Space Mini-Figures     | 1979 |    143   |     12    |
+| 4 |  0013-1 |     Space Mini-Figures     | 1979 |    143   |     12    | 
+
+<p>Let's see how the number of sets changed over the years</p>
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8643df08f79587e557b73b508da659eab2aa83cf/datasets/img2.png)
+
+<br>
+
+<p>Let's also observe the change in themes over the years</p>
+
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8643df08f79587e557b73b508da659eab2aa83cf/datasets/img1.png)
