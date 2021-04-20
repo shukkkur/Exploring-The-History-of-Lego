@@ -1,4 +1,9 @@
 # Exploring-The-History-of-Lego
+![Forks](https://img.shields.io/github/forks/shukkkur/CodeForces.svg)
+![Stars](https://img.shields.io/github/stars/shukkkur/CodeForces.svg)
+![Watchers](https://img.shields.io/github/watchers/shukkkur/CodeForces.svg)
+![Last Commit](https://img.shields.io/github/last-commit/shukkkur/CodeForces.svg) 
+<br>
 Using a variety of data manipulation techniques to explore different aspects of Lego's history.
 
 The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc.
