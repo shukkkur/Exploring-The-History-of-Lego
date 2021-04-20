@@ -11,4 +11,4 @@ In this project, we will get to explore the Rebrickable database and answer a se
 <br>
 The schema of database :
 
-![](visuals/database_schema_v2.png)
+![](datasets/project_image.png)
