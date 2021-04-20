@@ -50,7 +50,7 @@ display(colors.head())
 <br>
 <p>It would be interesting to explore the distribution of transparent vs. non-transparent colors.</p>
 
-![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/cb275fc26485fd15916e9fca72a56070a1815120/datasets/img3.png)
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8dbbf96a4031bf28674f193fe21f1a99910d8c32/datasets/img3.png)
 
 <hr>
 ### Sets dataset
@@ -70,10 +70,11 @@ display(sets.head())
 | 4 |  0013-1 |     Space Mini-Figures     | 1979 |    143   |     12    | 
 
 <p>Let's see how the number of sets changed over the years</p>
-![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8643df08f79587e557b73b508da659eab2aa83cf/datasets/img2.png)
+
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8dbbf96a4031bf28674f193fe21f1a99910d8c32/datasets/img2.png)
 
 <br>
 
 <p>Let's also observe the change in themes over the years</p>
 
-![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8643df08f79587e557b73b508da659eab2aa83cf/datasets/img1.png)
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/8dbbf96a4031bf28674f193fe21f1a99910d8c32/datasets/img1.png)
