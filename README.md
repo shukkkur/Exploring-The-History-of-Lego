@@ -49,14 +49,8 @@ display(colors.head())
 
 <br>
 <p>It would be interesting to explore the distribution of transparent vs. non-transparent colors.</p>
-<br>
-![dist](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/cb275fc26485fd15916e9fca72a56070a1815120/datasets/image.png)
 
-
-
-
-
-
+![picture](https://github.com/shukkkur/Exploring-The-History-of-Lego/blob/cb275fc26485fd15916e9fca72a56070a1815120/datasets/image.png)
 
 
 
